@@ -249,7 +249,6 @@ Crear un `Dockerfile` que:
 - Fork del repositorio proporcionado en GitHub Classroom
 - Desarrollar la solución en la rama `main`
 - Crear un tag `v1.0.0` para la versión final
-- Incluir un video demostrativo (opcional, puntos extra)
 
 ## Restricciones Importantes
 
