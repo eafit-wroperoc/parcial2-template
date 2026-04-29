@@ -1,5 +1,7 @@
 # Examen: Arquitectura de Software - API de Gestión de Notas
 
+NOTA: Evaluare los commits que haga y que siga las reglas del curso
+
 ## Descripción del Proyecto
 
 Este examen consiste en desarrollar una API RESTful para la gestión de notas (To-Do List) utilizando Flask o FastAPI. **El objetivo principal es evaluar los conocimientos sobre servicios y microservicios**, arquitectura de software, diseño de APIs y buenas prácticas de desarrollo.
